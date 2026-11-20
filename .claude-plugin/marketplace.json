@@ -1,0 +1,5 @@
+{
+  "name": "cyber-security-theme",
+  "owner": { "name": "Abdullah1Amer" },
+  "plugins": [{ "name": "cyber-security", "source": "./" }]
+}
